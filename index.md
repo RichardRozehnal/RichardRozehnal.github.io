@@ -4,4 +4,4 @@
 
 I hope you like it!
 
-[strana2](./Atari-SIO2SD-Igi-Version/.assets/index.md)
+[strana2](github.com/richidev/Atari-SIO2SD-Igi-Version/.assets/index.md)
