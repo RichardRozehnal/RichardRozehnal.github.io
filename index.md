@@ -4,4 +4,4 @@
 
 I hope you like it!
 
-[strana2](/strana2.md)
+[strana2](./Atari-SIO2SD-Igi-Version/.assets/index.md)
