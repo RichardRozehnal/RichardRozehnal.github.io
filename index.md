@@ -1,1 +1,1 @@
-<meta http-equiv="Refresh" content="0; url=https://www.github.com/RichiDev/">
+<meta http-equiv="Refresh" content="0; url=https://www.github.com/RichardRozehnal/">
